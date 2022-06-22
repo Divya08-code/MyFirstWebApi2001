@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "m7gXOzb1JQUUnE26hQdL50AMcnsRbnNHVB/PraTVvvlVQA5HM8rAFC6pwUsE6o0dgUL4b9Qd2/NMVVfhCU1pAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\MyFirstWebApi2001\\MyFirstWebApi2001\\MyFirstWebApi2001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
